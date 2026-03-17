@@ -4,7 +4,7 @@ q_2 https://onlinegdb.com/QNI-sAknx
 
 q_3 https://onlinegdb.com/2KNuxRqgi
 
-q_4 
+q_4 https://onlinegdb.com/3AeUWhkmc
 
 📘 C Programs – Array Operations
 
